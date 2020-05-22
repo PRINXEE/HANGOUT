@@ -1,0 +1,97 @@
+.w3l-about .new-block {
+    background-size: cover;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.57), rgba(0, 0, 0, 0.33)), url(../images/rufusandbee3.jpg);
+    background-repeat: no-repeat, no-repeat, no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    min-height: calc(100vh - 0px);
+    display: grid;
+    align-items: center;
+    padding: 2rem 0;
+}
+#write{
+    color: white;
+}
+
+.w3l-about2 .new-block {
+    background-size: cover;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.57), rgba(0, 0, 0, 0.33)), url(../images/Abuja/84b6a1e2-abuja.jpg);
+    background-repeat: no-repeat, no-repeat, no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    min-height: calc(100vh - 0px);
+    display: grid;
+    align-items: center;
+}
+
+.w3l-about3 .new-block {
+    background-size: cover;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.57), rgba(0, 0, 0, 0.33)), url(../images/minna.jpeg);
+    background-repeat: no-repeat, no-repeat, no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    min-height: calc(100vh - 0px);
+    display: grid;
+    align-items: center;
+}
+
+.w3l-about4 .new-block {
+    background-size: cover;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.57), rgba(0, 0, 0, 0.33)), url(../images//lagos/Welcome_to_Lagos.JPG);
+    background-repeat: no-repeat, no-repeat, no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    min-height: calc(100vh - 0px);
+    display: grid;
+    align-items: center;
+}
+.w3l-about5 .new-block {
+    background-size: cover;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.57), rgba(0, 0, 0, 0.33)), url(../images/kano/Sabuwar_Kofa_-_Kano_City_Gate.jpg);
+    background-repeat: no-repeat, no-repeat, no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    min-height: calc(100vh - 0px);
+    display: grid;
+    align-items: center;
+}
+
+.w3l-about6 .new-block {
+    background-size: cover;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.57), rgba(0, 0, 0, 0.33)), url(../images/kaduna/kaduna.jpg);
+    background-repeat: no-repeat, no-repeat, no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    min-height: calc(100vh - 0px);
+    display: grid;
+    align-items: center;
+}
+
+.w3l-about7 .new-block {
+    background-size: cover;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.57), rgba(0, 0, 0, 0.33)), url(../images/katsina.jpg);
+    background-repeat: no-repeat, no-repeat, no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    min-height: calc(100vh - 0px);
+    display: grid;
+    align-items: center;
+}
+.w3l-about-p .new-block {
+    background-size: cover;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.57), rgba(0, 0, 0, 0.33)), url(../images/pleace.jpg);
+    background-repeat: no-repeat, no-repeat, no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    min-height: calc(100vh - 0px);
+    display: grid;
+    align-items: center;
+}
+
+.containers{
+    display: grid;
+    grid-template-columns: 34% 35% 30%;
+    grid-auto-rows: 5cm;
+    grid-gap: 5px;
+    
+}
